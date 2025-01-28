@@ -1,6 +1,7 @@
 # Bonjour, je suis Sylvain 👋
 
 Je suis passionné par le développement web depuis de nombreuses années.
+
 Je suis basé à **Lille**, France. Vous pouvez découvrir mon CV sur [www.syl-studio.com](https://www.syl-studio.com/).
 
 ## À propos de moi
