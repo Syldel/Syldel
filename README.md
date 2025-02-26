@@ -16,7 +16,7 @@ Je suis basé à **Lille**, France. Vous pouvez découvrir mon CV sur [www.syl-s
 ## Projets
 - 🔨 **[keystone-sylstudio-app](https://github.com/Syldel/keystone-sylstudio-app)** : Utilise **Keystone** et **GraphQL** pour construire des applications ou des CMS.
 - 🔨 **[nuxt-fun-project](https://github.com/Syldel/nuxt-fun-project)** : Mon CV en ligne construit avec **Nuxt 3** et **GraphQL**.
-- 🔨 **[nuxt-alcohol](https://github.com/Syldel/alcohol)** : Un projet construit avec **Nuxt 3** et **GraphQL**.
+- 🔨 **[nuxt-alcohol](https://github.com/Syldel/nuxt-alcohol)** : Un projet construit avec **Nuxt 3** et **GraphQL**.
 - 🔨 **[nest-alcohol](https://github.com/Syldel/nest-alcohol)** : Un serveur **GraphQL** construit avec **NestJS**.
 - 🔨 **[react-project](https://github.com/Syldel/react-project)** : Un projet construit avec **React**.
 
