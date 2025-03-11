@@ -1,8 +1,12 @@
 # Bonjour, je suis Sylvain 👋
 
-Je suis passionné par le développement web depuis de nombreuses années.
+![France](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/fr.png "France") Passionné et curieux, j'aime apprendre sans cesse de nouvelles choses. Le goût du travail bien fait et ma capacité à collaborer efficacement font de moi quelqu'un de professionnel.
 
 Je suis basé à **Lille**, France. Vous pouvez découvrir mon CV sur [www.syl-studio.com](https://www.syl-studio.com/).
+
+![United Kingdom](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png "United Kingdom") Passionate and curious, I constantly enjoy learning new things. My commitment to quality work and my ability to collaborate effectively make me a professional.
+
+I am based in **Lille**, France. You can check out my resume at [www.syl-studio.com](https://www.syl-studio.com/).
 
 ## À propos de moi
 - 🧑‍💻 Développeur full-stack (plutôt spécialisé frontend)
